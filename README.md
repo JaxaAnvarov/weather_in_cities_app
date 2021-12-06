@@ -13,7 +13,10 @@ va siz unga bosib keyingi sahifaga o'tishingiz mumkun.
 
 <a href="https://ibb.co/7zz8fDL"><img src="https://i.ibb.co/599t03w/Screenshot-from-2021-12-06-23-33-16.png" alt="Screenshot-from-2021-12-06-23-33-16" border="0"></a>
 
+### Second Page ' A page that looks at the weather in the state '.
+Bu sahifada Home Pageda qaysi davlat tanlab kirganizdagi , davlatning ob-havosini ko'rsatadi.
 
+<a href="https://ibb.co/sytLWYM"><img src="https://i.ibb.co/NZ7wTBH/Screenshot-from-2021-12-06-23-33-54.png" alt="Screenshot-from-2021-12-06-23-33-54" border="0"></a>
 
 
 
