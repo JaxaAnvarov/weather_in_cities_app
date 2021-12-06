@@ -25,5 +25,5 @@ Bu sahifada shu davlat haqida ma'lumot berib boriladi.
 <a href="https://ibb.co/FsVtHMw"><img src="https://i.ibb.co/DGpnryC/Screenshot-from-2021-12-06-23-34-06.png" alt="Screenshot-from-2021-12-06-23-34-06" border="0"></a>
 
 
-
-
+# Dasturni yuklab olish uchun havola : 
+<a href="https://github.com/asadbekdev/marvie_app/blob/main/marvie.apk" download>Dasturni yuklab olish</a>
