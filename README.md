@@ -4,7 +4,7 @@ Flutterdagi birinchi katta loyiham.
 
 ## Dastur Haqida ! 
 # Applicationda sahifalari rasmlarda: 👇.
-<a href="https://ibb.co/7zz8fDL"><img src="https://i.ibb.co/7zz8fDL/Screenshot-from-2021-12-06-23-33-16.png" alt="Screenshot-from-2021-12-06-23-33-16" border="0"></a>
+<a href="https://ibb.co/7zz8fDL"><img src="https://i.ibb.co/599t03w/Screenshot-from-2021-12-06-23-33-16.png" alt="Screenshot-from-2021-12-06-23-33-16" border="0"></a>
 
 
 
