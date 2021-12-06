@@ -18,6 +18,9 @@ Bu sahifada Home Pageda qaysi davlat tanlab kirganizdagi , davlatning ob-havosin
 
 <a href="https://ibb.co/sytLWYM"><img src="https://i.ibb.co/NZ7wTBH/Screenshot-from-2021-12-06-23-33-54.png" alt="Screenshot-from-2021-12-06-23-33-54" border="0"></a>
 
+### Third Page 'Information Page'.
+Bu sahifada shu davlat haqida ma'lumot berib boriladi.
+#### Masalan : Aholisi qancha , millati , locatsiyasi , va boshqa ma'lumotlar bilan ham tanishib chiqishingiz mumkun.
 
 
 A few resources to get you started if this is your first Flutter project:
