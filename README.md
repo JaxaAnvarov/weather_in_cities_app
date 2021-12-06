@@ -26,4 +26,4 @@ Bu sahifada shu davlat haqida ma'lumot berib boriladi.
 
 
 # Dasturni yuklab olish uchun havola : 
-<a href="https://github.com/asadbekdev/marvie_app/blob/main/marvie.apk" download>Dasturni yuklab olish</a>
+<a href="https://github.com/JaxaAnvarov/weather_in_cities_app/blob/main/app-arm64-v8a-release.apk" download>Dasturni yuklab olish</a>
