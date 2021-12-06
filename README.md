@@ -1,10 +1,16 @@
-# dars40
+# Weather In Cities App
 
-A new Flutter project.
+Flutterdagi birinchi katta loyiham.
 
-## Getting Started
+## Dastur Haqida ! 
+# Applicationda sahifalari rasmlarda: 👇.
+<img src="https://ibb.co/7zz8fDL/"
+     alt="Onboarding page"
+     style="float: left; margin-right: 10px;" width="200" />
 
-This project is a starting point for a Flutter application.
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +20,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
