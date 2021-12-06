@@ -1,0 +1,4 @@
+#Tue Oct 19 12:52:19 UZT 2021
+base.0=/home/anvarov/Flutter_project/countries/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
