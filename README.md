@@ -5,8 +5,9 @@ Flutterdagi birinchi katta loyiham.
 ## Dastur Haqida ! 
 # Applicationda sahifalari rasmlarda: 👇.
 
-# Home Page. 
-Home Page da Input Fieldda davlatning nomiming kiritsangiz , pastki qismda usha davlatning rasmi chiqadi va siz unga bosib keyingi sahifaga o'tishingiz mumkun.
+### Home Page. 
+Home Page da Input Fieldda davlatning nomiming kiritsangiz , 
+pastki qismda usha davlatning rasmi chiqadi va siz unga bosib keyingi sahifaga o'tishingiz mumkun.
 <a href="https://ibb.co/7zz8fDL"><img src="https://i.ibb.co/599t03w/Screenshot-from-2021-12-06-23-33-16.png" alt="Screenshot-from-2021-12-06-23-33-16" border="0"></a>
 
 
