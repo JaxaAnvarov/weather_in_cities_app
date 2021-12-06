@@ -22,15 +22,8 @@ Bu sahifada Home Pageda qaysi davlat tanlab kirganizdagi , davlatning ob-havosin
 Bu sahifada shu davlat haqida ma'lumot berib boriladi.
 #### Masalan : Aholisi qancha , millati , locatsiyasi , va boshqa ma'lumotlar bilan ham tanishib chiqishingiz mumkun.
 
+<a href="https://ibb.co/FsVtHMw"><img src="https://i.ibb.co/DGpnryC/Screenshot-from-2021-12-06-23-34-06.png" alt="Screenshot-from-2021-12-06-23-34-06" border="0"></a>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 
 
