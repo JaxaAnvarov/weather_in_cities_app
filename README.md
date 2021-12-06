@@ -4,7 +4,7 @@ Flutterdagi birinchi katta loyiham.
 
 ## Dastur Haqida ! 
 # Applicationda sahifalari rasmlarda: 👇.
-<img src="https://ibb.co/7zz8fDL/"
+<img src="https://ibb.co/7zz8fDL/1.jpg"
      alt="Onboarding page"
      style="float: left; margin-right: 10px;" width="200" />
 
